@@ -1,0 +1,4 @@
+config:
+  info: "test 测试环境配置，端口3356"
+server:
+  port: 3356

@@ -1,0 +1,4 @@
+config:
+  info: "dev 开发环境配置，端口3355"
+server:
+  port: 3355
