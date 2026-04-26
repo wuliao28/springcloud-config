@@ -1,4 +1,4 @@
 config:
-  info: "prod 生产环境配置，端口3357"
+  info: "prod environment config, port 3357"
 server:
   port: 3357
